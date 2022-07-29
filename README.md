@@ -18,3 +18,6 @@ Here is the actual Steps (Algorithm) we just used:
       o	You are done don't go to next step.
       
     6.	Repeat
+
+
+## Experiment results:
